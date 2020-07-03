@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","3","3","0"
+"id_mv","INTEGER","4","4","0"
+"data","STRING","10","0","0"
+"mvalue","INTEGER","10","10","0"

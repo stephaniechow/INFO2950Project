@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"musicshow","STRING","12","0","0"
+"id_artist","INTEGER","3","3","0"
+"data","STRING","10","0","0"
